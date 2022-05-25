@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-25T10:29:06Z" name="Default suite" finished-at="2022-05-25T10:29:22Z" duration-ms="15677">
+    <groups>
+    </groups>
+    <test started-at="2022-05-25T10:29:06Z" name="Default test" finished-at="2022-05-25T10:29:22Z" duration-ms="15677">
+      <class name="Apitesting.sampleproject.TestCases">
+        <test-method is-config="true" signature="setSpecification()[pri:0, instance:Apitesting.sampleproject.TestCases@44c73c26]" started-at="2022-05-25T10:29:06Z" name="setSpecification" finished-at="2022-05-25T10:29:07Z" duration-ms="1233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setSpecification -->
+        <test-method signature="testCreateUser()[pri:0, instance:Apitesting.sampleproject.TestCases@44c73c26]" started-at="2022-05-25T10:29:07Z" name="testCreateUser" finished-at="2022-05-25T10:29:10Z" duration-ms="3110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+        <test-method signature="testDelayedResponse()[pri:0, instance:Apitesting.sampleproject.TestCases@44c73c26]" started-at="2022-05-25T10:29:10Z" name="testDelayedResponse" finished-at="2022-05-25T10:29:14Z" duration-ms="3836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDelayedResponse -->
+        <test-method signature="testFetchListResource()[pri:0, instance:Apitesting.sampleproject.TestCases@44c73c26]" started-at="2022-05-25T10:29:14Z" name="testFetchListResource" finished-at="2022-05-25T10:29:15Z" duration-ms="830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFetchListResource -->
+        <test-method signature="testFetchResource()[pri:0, instance:Apitesting.sampleproject.TestCases@44c73c26]" started-at="2022-05-25T10:29:15Z" name="testFetchResource" finished-at="2022-05-25T10:29:16Z" duration-ms="813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFetchResource -->
+        <test-method signature="testFetchResourceNotFound()[pri:0, instance:Apitesting.sampleproject.TestCases@44c73c26]" started-at="2022-05-25T10:29:16Z" name="testFetchResourceNotFound" finished-at="2022-05-25T10:29:17Z" duration-ms="827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFetchResourceNotFound -->
+        <test-method signature="testFetchUser()[pri:0, instance:Apitesting.sampleproject.TestCases@44c73c26]" started-at="2022-05-25T10:29:17Z" name="testFetchUser" finished-at="2022-05-25T10:29:17Z" duration-ms="661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFetchUser -->
+        <test-method signature="testFetchUsers()[pri:0, instance:Apitesting.sampleproject.TestCases@44c73c26]" started-at="2022-05-25T10:29:17Z" name="testFetchUsers" finished-at="2022-05-25T10:29:18Z" duration-ms="711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFetchUsers -->
+        <test-method signature="testLoginSuccessful()[pri:0, instance:Apitesting.sampleproject.TestCases@44c73c26]" started-at="2022-05-25T10:29:18Z" name="testLoginSuccessful" finished-at="2022-05-25T10:29:19Z" duration-ms="723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginSuccessful -->
+        <test-method signature="testLoginUnSuccessful()[pri:0, instance:Apitesting.sampleproject.TestCases@44c73c26]" started-at="2022-05-25T10:29:19Z" name="testLoginUnSuccessful" finished-at="2022-05-25T10:29:19Z" duration-ms="727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginUnSuccessful -->
+        <test-method signature="testRegisterUserSuccessful()[pri:0, instance:Apitesting.sampleproject.TestCases@44c73c26]" started-at="2022-05-25T10:29:19Z" name="testRegisterUserSuccessful" finished-at="2022-05-25T10:29:20Z" duration-ms="730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegisterUserSuccessful -->
+        <test-method signature="testRegisterUserUnsuccessful()[pri:0, instance:Apitesting.sampleproject.TestCases@44c73c26]" started-at="2022-05-25T10:29:20Z" name="testRegisterUserUnsuccessful" finished-at="2022-05-25T10:29:21Z" duration-ms="704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegisterUserUnsuccessful -->
+        <test-method signature="testUserNotFound()[pri:0, instance:Apitesting.sampleproject.TestCases@44c73c26]" started-at="2022-05-25T10:29:21Z" name="testUserNotFound" finished-at="2022-05-25T10:29:22Z" duration-ms="732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserNotFound -->
+      </class> <!-- Apitesting.sampleproject.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
